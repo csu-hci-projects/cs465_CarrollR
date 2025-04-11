@@ -7,10 +7,10 @@ This project is related to exploring how people interact with pets in Virtual Re
 Links:
 ------
 **Project Video (YouTube - Unlisted)**:
-   - https://youtu.be/h53HzYw4db4
+   - Checkpoint 1 - https://youtu.be/h53HzYw4db4
 
 **Overleaf Document**:
-   - https://www.overleaf.com/read/rpczykrnkfrj#29d5a2
+   - Checkpoint 1  https://www.overleaf.com/read/rpczykrnkfrj#29d5a2
 
 Additional Information:
 ------------------------
