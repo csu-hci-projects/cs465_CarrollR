@@ -10,7 +10,7 @@ Links:
    - Checkpoint 1 - https://youtu.be/h53HzYw4db4
 
 **Overleaf Document**:
-   - Checkpoint 1  https://www.overleaf.com/read/rpczykrnkfrj#29d5a2
+   - Checkpoint 1 - https://www.overleaf.com/read/rpczykrnkfrj#29d5a2
 
 Additional Information:
 ------------------------
