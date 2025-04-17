@@ -11,7 +11,11 @@ Links:
 
 **Overleaf Document**:
    - Checkpoint 1 - https://www.overleaf.com/read/rpczykrnkfrj#29d5a2
-   - Checkpoint 2- https://www.overleaf.com/read/gskrdnwrqccp#87805a
+   - Checkpoint 2 - https://www.overleaf.com/read/gskrdnwrqccp#87805a
+     
+**PDF**:
+   - Checkpoint 2 - [Exploring Multimodal Interaction with Virtual Pets in VR} .pdf](https://github.com/user-attachments/files/19802349/Exploring.Multimodal.Interaction.with.Virtual.Pets.in.VR.pdf)
+
 
 Additional Information:
 ------------------------
