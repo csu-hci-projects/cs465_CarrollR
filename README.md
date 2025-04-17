@@ -11,6 +11,7 @@ Links:
 
 **Overleaf Document**:
    - Checkpoint 1 - https://www.overleaf.com/read/rpczykrnkfrj#29d5a2
+   - Checkpoint 2- https://www.overleaf.com/read/gskrdnwrqccp#87805a
 
 Additional Information:
 ------------------------
