@@ -8,6 +8,7 @@ Links:
 ------
 **Project Video (YouTube - Unlisted)**:
    - Checkpoint 1 - https://youtu.be/h53HzYw4db4
+   - Checkpoint 2 - https://youtu.be/c_hgyeLp7q8
 
 **Overleaf Document**:
    - Checkpoint 1 - https://www.overleaf.com/read/rpczykrnkfrj#29d5a2
