@@ -2,7 +2,7 @@ Readme for Exploring Multimodal Interaction with Virtual Pets in VR
 
 Project Overview:
 -----------------
-This project is related to exploring how people interact with pets in Virtual Reality (VR) using different modalities such as controllers, gaze, and speech. The goal is to analyze how these interaction methods impact the experience and engagement of users with virtual pets in a VR environment. You can explore the details in the video and Overleaf document linked below.
+This research project investigates how users interact with virtual pets in Virtual Reality (VR) using unimodal or multimodal interfaces, including controllers, gaze, and speech. The study aims to analyze how these interaction methods affect user experience, engagement, and emotional connection with a virtual pet dog in a minimalist VR environment. Conducted as part of a Human-Computer Interaction (HCI) study, the project explores applications in entertainment, therapy, and companionship. The experiment involves 3 participants and uses a Unity VR core starter scene with a simple room, basic objects, and a sky background to focus on pet interactions. Results will be documented in a comprehensive PDF report.
 
 Links:
 ------
