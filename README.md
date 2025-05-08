@@ -9,6 +9,9 @@ Links:
 **Project Video (YouTube - Unlisted)**:
    - Checkpoint 1 - https://youtu.be/h53HzYw4db4
    - Checkpoint 2 - https://youtu.be/c_hgyeLp7q8
+   - Programming Video - https://drive.google.com/file/d/1lIL-0x6CfLYNyqkAL7sgzC5VUYtsh_Cz/view?usp=share_link
+   - Presentation Video - https://drive.google.com/file/d/1oln1F9UxtJVaRs_9aY8E0yAeeXtcIxsp/view?usp=share_link
+   - Short Video - https://drive.google.com/file/d/1r6EhpRBNe4kIFSNi_NBewXmOM_OgzSdw/view?usp=share_link
 
 **Overleaf Document**:
    - Checkpoint 1 - https://www.overleaf.com/read/rpczykrnkfrj#29d5a2
